@@ -1,0 +1,20 @@
+{
+  "name": "VUse",
+  "version": "1.0.0",
+  "description": "vue use, vant use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laibin8848/VUse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laibin8848/VUse/issues"
+  },
+  "homepage": "https://github.com/laibin8848/VUse#readme"
+}
