@@ -4,6 +4,7 @@
   "description": "vue use, vant use",
   "main": "index.js",
   "scripts": {
+    "install": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
