@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T08:07:13.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="AkxfEvj9ft9oxV4d0bsV" version="14.8.1" type="github"><diagram id="iz_ziZV7d4R7db7fIo0L" name="Page-1">5VjbctowEP0aPSbjO+YRg5N2mnQyzbWPCha2EmMxsgg4X1/JlnxB4VISmg6Z4UF7vFpJ5+zKi4E9nC7PKZwllyRCKbCMaAnsEbAs07EsIH5GVFRIz5NATHEknRrgGr8iCRoSneMI5R1HRkjK8KwLjkmWoTHrYJBSsui6TUjaXXUGY6QB12OY6ug9jlhSob7Va/BvCMeJWtn0+tWTKVTO8iR5AiOyaEF2COwhJYRVo+lyiFJBnuKlmne25mm9MYoytsuE+0v/Ppzk7tXruPgZPCeDq8mPE0fujRXqwCji55cmoSwhMclgGjZoQMk8i5CIanCr8bkgZMZBk4NPiLFCignnjHAoYdNUPkVLzB5a498i1KkrrdFSRi6NQhkZo8VD22jNEmYzrbTUvOp84lBraZNQTuZ0jDZwpdIP0hixDX5WLS6vCkSmiO+Hz6MohQy/dPcBZXrGtV+jIB9IEf9CUBn3BaZzuVIxRyfjFGtCNzIKHRYJZuh6BksGFryWu5LJqIgytNxMpH5wOcGVdSAvArMn7UVTVqaqlaRVUp5xIKosjSoQusDvA38Ewh4YBGBwJpD+GQgGJWIC3wChVw48MeiHIPDOv9+A0AFBAPq28OfOfPDZdFv+/8a3q/OtXT5ZNBCXNrcykqG3SNleyjolrSO7b5xYYTtXqFzhimC+cM24aXYZd4wVJqsbRs5q39RbAln2SqDqCtIClarUx95fqN6RC1ULo/jdVyjH2xLowEL5xy7UKr+rd9O+QpnObkJx6mDRcpsJh3z3Dat1Gt2riB+aBf0vlgWaeLtmgbtnFnyUUOpabyl1dyuWubvV+wX+5mddnWCK44yPx1wWRDkg+gPM/6oM5IMpjqKqQ0c5foWPZSjRBMu05XHdALgjEYs35XnVn4vQOaPkGQ1JSmiTIuD9TYjjuV3GLb0J6b2ROdahehBT74+Pu1j2fretFsu/freZenv+KxwMb3S5uBYX8BGlh6uWtZUgvzrIyaDO23Y6bMjDtXVzYpyqxJT02+/LDuVCJpMcHUYv+6tV1r7NiOtuCXToynI0pXJGaPFIyDMPmJEIPeVHUmb2xjIzTm1TvRE+v8642XwNrNybb6p2+Ac=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-13T08:21:30.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="01-IDR9_Deo7nfx25_z-" version="14.8.1" type="github">
+  <diagram id="iz_ziZV7d4R7db7fIo0L" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-18" value="YUE-CLI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="390" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-22" value="应用模板GIT仓库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-23" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-24" value="VUE2/VUE3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-26" value="REACT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-27" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-28" value="STORYBOOK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="550" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="650" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-30" value="NODEJS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="390" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-32" value="1，创建命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-33" value="2，判断项目是否存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-34" value="3，问答交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-35" value="4，完成问答，回调，拉取远程模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="480" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RjzgLx3yJ-NzdkcLcUKh-37" value="" style="endArrow=classic;html=1;entryX=-0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RjzgLx3yJ-NzdkcLcUKh-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="440" as="sourcePoint" />
+            <mxPoint x="210" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
