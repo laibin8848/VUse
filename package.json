@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/laibin8848/VUse.git"
   },
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
